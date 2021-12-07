@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @yasminoliveir
+
 - 👀 I’m interested in data science and analytics
--:bookmark:  I’m currently learning about statistics 
-- 💞️ I’m looking to collaborate on machine learning projects
+
+- :hammer:  I’m currently learning about statistics 
+
+- :rocket: I’m looking to collaborate on machine learning projects
 
 <!---
 yasminoliveir/yasminoliveir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
