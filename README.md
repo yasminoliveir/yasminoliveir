@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasminoliveir
+- 👋 Hi, I’m @yasminoliveir, nice to meet you! :alien:
 
 - 👀 I’m interested in data science and analytics
 
